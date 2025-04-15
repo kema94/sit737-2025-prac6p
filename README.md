@@ -39,7 +39,7 @@ Dockerize and Push to Docker Hub
  Verify Deployment
  
 •	Open your browser and go to:
-http://localhost:30036
+http://localhost:30035
 to confirm the app is running.
 •	Check pod and service status:
 •	kubectl get pods
