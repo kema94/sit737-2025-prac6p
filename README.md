@@ -1,4 +1,4 @@
-Step-by-Step Instructions (Bullet Points)
+Step-by-Step Instructions 
 
 •	Install Docker Desktop and Node.js on your machine.
 •	Enable Kubernetes in Docker Desktop under Settings > Kubernetes.
